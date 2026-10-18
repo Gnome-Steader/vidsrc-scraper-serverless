@@ -11,7 +11,7 @@ const PROVIDERS = [
   "https://vidsrc-me.su",
   "https://vidsrc-embed.ru",
   "https://vidsrc-embed.su",
-  "https://vsrc.su",
+  "https://vidsrc.ru",
 ];
 const LANGUAGE_NAMES = { en: "English" };
 const COMMON_LANGUAGES = new Set(Object.keys(LANGUAGE_NAMES));
