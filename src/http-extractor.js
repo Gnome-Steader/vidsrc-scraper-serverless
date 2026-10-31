@@ -1,4 +1,4 @@
-const API_BASE = "https://data.vidsrcme.ru";
+const API_BASE = "https://data.vidsrc.sh/";
 const PLAYER_ORIGIN = "https://cloudorchestranova.com";
 
 const decryptorCache = new Map();
